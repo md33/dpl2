@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <item android:title="+id/lesson" android:id="@+id/navigation_item_2" android:icon="@drawable/book" ></item>
+            <item android:title="+id/example"  android:icon="@drawable/square" ></item>
+            <item android:title="+id/question" android:icon="@drawable/mark"></item>
+            <item android:title="+id/sett" android:icon="@drawable/ic_build_black_24dp"></item>
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Хичээл"
+          android:id="@+id/lesson"
+          android:icon="@drawable/book"/>
+
+    <item android:title="Жишээ"
+          android:id="@+id/example"
+          android:icon="@drawable/square"/>
+
+    <item android:title="Асуулт"
+          android:id="@+id/question"
+          android:icon="@drawable/mark"/>
+
+    <item android:title="Тохиргоо"
+        android:id="@+id/sett"
+        android:icon="@drawable/ic_build_black_24dp"/>
+
+</menu>
